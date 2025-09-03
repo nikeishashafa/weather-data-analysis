@@ -32,4 +32,7 @@ This project analyzes historical weather data to explore temperature, humidity, 
 - Correlation exists between temperature and apparent temperature.
 
 ## Author
-- Nikeisha Shafa Irianto 
+
+- Nikeisha Shafa Irianto
+## Dataset
+The dataset used in this project can be downloaded from [Kaggle - Weather Dataset](https://www.kaggle.com/datasets/muthuj7/weather-dataset).
