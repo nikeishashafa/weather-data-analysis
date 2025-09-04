@@ -1,4 +1,4 @@
-# Weather Data Analysis
+# Weather Data Analysis 🌦️
 
 ## Project Overview
 This project analyzes historical weather data to explore temperature, humidity, and precipitation trends.
@@ -36,3 +36,4 @@ This project analyzes historical weather data to explore temperature, humidity, 
 - Nikeisha Shafa Irianto
 ## Dataset
 The dataset used in this project can be downloaded from [Kaggle - Weather Dataset](https://www.kaggle.com/datasets/muthuj7/weather-dataset).
+
